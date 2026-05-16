@@ -151,17 +151,3 @@ print(search_in_file("sample_data/resumes/resume_john_doe.txt", "Python"))
 print(write_file("notes/output.txt", "Hello from fs_tools"))
 ```
 
-## Expected deliverables covered
-
-- Source code with documentation
-- `requirements.txt`
-- 7 mixed-format dummy resume files plus 100 generated resumes
-- `README.md` with setup and usage
-- LangGraph workflow with deterministic fallback
-- State machine diagram
-- CLI and Streamlit chat interfaces
-- 5+ conversation flows
-
-## Remaining manual item
-
-The PDF asks for a 5-6 minute demo video showing agent reasoning. That is not generated here, but `docs/test_scenarios.md` gives ready flows to demonstrate.
