@@ -1,0 +1,23 @@
+David Kim
+Machine Learning Engineer
+
+Email: david.kim@example.com
+Phone: +1-555-0105
+Location: San Jose, CA
+
+Summary
+ML engineer with production experience in recommendation systems, feature engineering, and model deployment. Strong Python background with a focus on data pipelines.
+
+Skills
+Python, PyTorch, scikit-learn, SQL, Airflow, Docker, Feature Stores, Model Serving
+
+Experience
+Machine Learning Engineer, Nova Intelligence, 2021-Present
+- Shipped personalization models for a consumer content platform.
+- Built batch feature pipelines and monitoring dashboards.
+
+Data Scientist, Helix AI, 2018-2021
+- Created experimentation frameworks and offline evaluation tooling.
+
+Education
+M.S. Computer Science, San Jose State University

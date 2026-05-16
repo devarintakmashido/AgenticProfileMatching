@@ -1,0 +1,23 @@
+John Doe
+Senior Python Developer
+
+Email: john.doe@example.com
+Phone: +1-555-0101
+Location: Austin, TX
+
+Summary
+Backend engineer with 7 years of experience building APIs, automation systems, and internal tools with Python, FastAPI, and PostgreSQL.
+
+Skills
+Python, FastAPI, Django, PostgreSQL, Redis, Docker, AWS, REST APIs, Unit Testing
+
+Experience
+Senior Software Engineer, Northstar Labs, 2021-Present
+- Built a resume screening service in Python handling 1M+ records.
+- Improved API latency by 38 percent using async processing and Redis caching.
+
+Software Engineer, Blue Mesa Tech, 2018-2021
+- Developed internal HR workflow tools using Django and Celery.
+
+Education
+B.S. Computer Science, University of Texas

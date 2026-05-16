@@ -1,0 +1,23 @@
+Sara Sen C079
+ML Engineer
+
+Email: candidate079@example.com
+Phone: +91-90000-00079
+Location: Bengaluru, India
+
+Summary
+ML Engineer with 9+ years experience building production systems and collaborating with product teams.
+
+Skills
+Python, PyTorch, scikit-learn, Airflow, Docker, Python, FastAPI
+
+Experience
+Senior ML Engineer, DemoCorp, 2021-Present
+- Delivered production projects using Python, PyTorch, and scikit-learn.
+- Partnered with cross-functional teams on reliability, maintainability, and delivery quality.
+
+Engineer, BuildWorks, 2018-2021
+- Improved platform workflows and automated recurring engineering tasks.
+
+Education
+B.Tech Computer Science

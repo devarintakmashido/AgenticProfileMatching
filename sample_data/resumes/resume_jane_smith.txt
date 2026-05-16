@@ -1,0 +1,23 @@
+Jane Smith
+Data Analyst
+
+Email: jane.smith@example.com
+Phone: +1-555-0102
+Location: Seattle, WA
+
+Summary
+Analyst with 5 years of experience in data reporting, SQL dashboards, and business intelligence. Comfortable collaborating with engineering teams and automating ETL jobs in Python.
+
+Skills
+SQL, Python, Tableau, Power BI, Excel, ETL, A/B Testing
+
+Experience
+Data Analyst, Meridian Retail, 2022-Present
+- Built weekly forecasting dashboards for leadership teams.
+- Automated CSV ingestion pipelines with Python scripts.
+
+Business Analyst, Vista Commerce, 2019-2022
+- Produced KPI reporting for product and marketing departments.
+
+Education
+B.A. Economics, University of Washington

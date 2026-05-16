@@ -1,0 +1,23 @@
+Vikram Patel C018
+Data Analyst
+
+Email: candidate018@example.com
+Phone: +91-90000-00018
+Location: Bengaluru, India
+
+Summary
+Data Analyst with 2+ years experience building production systems and collaborating with product teams.
+
+Skills
+SQL, Python, Tableau, Power BI, ETL, Python, PyTorch
+
+Experience
+Senior Data Analyst, DemoCorp, 2021-Present
+- Delivered production projects using SQL, Python, and Tableau.
+- Partnered with cross-functional teams on reliability, maintainability, and delivery quality.
+
+Engineer, BuildWorks, 2018-2021
+- Improved platform workflows and automated recurring engineering tasks.
+
+Education
+B.Tech Computer Science

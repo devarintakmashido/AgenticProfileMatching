@@ -1,0 +1,23 @@
+Anaya Rao C057
+DevOps Engineer
+
+Email: candidate057@example.com
+Phone: +91-90000-00057
+Location: Bengaluru, India
+
+Summary
+DevOps Engineer with 5+ years experience building production systems and collaborating with product teams.
+
+Skills
+Kubernetes, Terraform, AWS, Docker, Linux, SQL, Python
+
+Experience
+Senior DevOps Engineer, DemoCorp, 2021-Present
+- Delivered production projects using Kubernetes, Terraform, and AWS.
+- Partnered with cross-functional teams on reliability, maintainability, and delivery quality.
+
+Engineer, BuildWorks, 2018-2021
+- Improved platform workflows and automated recurring engineering tasks.
+
+Education
+B.Tech Computer Science

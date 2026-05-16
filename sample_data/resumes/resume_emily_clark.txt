@@ -1,0 +1,23 @@
+Emily Clark
+Frontend Engineer
+
+Email: emily.clark@example.com
+Phone: +1-555-0104
+Location: Boston, MA
+
+Summary
+Frontend developer with strong collaboration skills and experience delivering accessible product interfaces. Familiar with full-stack workflows and API integration.
+
+Skills
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Accessibility, Jest
+
+Experience
+Frontend Engineer, Harbor Pixel, 2021-Present
+- Implemented component libraries and testing workflows.
+- Partnered with backend teams to integrate REST APIs and analytics.
+
+UI Developer, Pineworks Digital, 2018-2021
+- Built responsive interfaces for healthcare and education clients.
+
+Education
+B.S. Software Engineering, Northeastern University

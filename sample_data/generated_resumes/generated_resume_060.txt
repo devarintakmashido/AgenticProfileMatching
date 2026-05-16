@@ -1,0 +1,23 @@
+Aarav Sharma C060
+Backend Engineer
+
+Email: candidate060@example.com
+Phone: +91-90000-00060
+Location: Bengaluru, India
+
+Summary
+Backend Engineer with 8+ years experience building production systems and collaborating with product teams.
+
+Skills
+Python, FastAPI, PostgreSQL, Docker, AWS, React, TypeScript
+
+Experience
+Senior Backend Engineer, DemoCorp, 2021-Present
+- Delivered production projects using Python, FastAPI, and PostgreSQL.
+- Partnered with cross-functional teams on reliability, maintainability, and delivery quality.
+
+Engineer, BuildWorks, 2018-2021
+- Improved platform workflows and automated recurring engineering tasks.
+
+Education
+B.Tech Computer Science

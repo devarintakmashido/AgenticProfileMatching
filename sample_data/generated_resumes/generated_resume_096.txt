@@ -1,0 +1,23 @@
+Nikhil Das C096
+Frontend Engineer
+
+Email: candidate096@example.com
+Phone: +91-90000-00096
+Location: Bengaluru, India
+
+Summary
+Frontend Engineer with 8+ years experience building production systems and collaborating with product teams.
+
+Skills
+React, TypeScript, JavaScript, Accessibility, Jest, Kubernetes, Terraform
+
+Experience
+Senior Frontend Engineer, DemoCorp, 2021-Present
+- Delivered production projects using React, TypeScript, and JavaScript.
+- Partnered with cross-functional teams on reliability, maintainability, and delivery quality.
+
+Engineer, BuildWorks, 2018-2021
+- Improved platform workflows and automated recurring engineering tasks.
+
+Education
+B.Tech Computer Science

@@ -1,0 +1,23 @@
+Michael Lee
+DevOps Engineer
+
+Email: michael.lee@example.com
+Phone: +1-555-0103
+Location: Denver, CO
+
+Summary
+Infrastructure engineer focused on CI/CD, cloud reliability, and platform automation across Kubernetes environments.
+
+Skills
+AWS, Terraform, Docker, Kubernetes, Linux, GitHub Actions, Python, Bash
+
+Experience
+DevOps Engineer, PeakScale Systems, 2020-Present
+- Managed production Kubernetes clusters serving customer APIs.
+- Wrote Python and Bash automation for deployment validation.
+
+Systems Engineer, Copper Ridge, 2017-2020
+- Led migration from manual deployments to CI/CD pipelines.
+
+Education
+B.S. Information Systems, Colorado State University
